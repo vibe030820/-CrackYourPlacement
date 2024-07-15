@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
