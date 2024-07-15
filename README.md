@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
