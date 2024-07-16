@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -29,12 +30,14 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
