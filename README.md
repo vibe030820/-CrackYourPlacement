@@ -29,6 +29,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,9 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
