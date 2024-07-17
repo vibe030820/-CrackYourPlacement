@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,9 +57,14 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
