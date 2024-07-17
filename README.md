@@ -48,6 +48,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -71,5 +72,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
