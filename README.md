@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -16,6 +17,7 @@
 | [0001-two-sum](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
