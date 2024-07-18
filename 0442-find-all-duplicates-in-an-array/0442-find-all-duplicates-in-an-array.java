@@ -8,6 +8,8 @@ class Solution {
             hm.put(nums[i],1);
             else if(n==1)
             l.add(nums[i]);
+            else
+            hm.put(nums[i],n+1);
             
             
         }
