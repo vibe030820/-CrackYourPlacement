@@ -6,7 +6,7 @@ class Solution {
             Integer n=hm.get(nums[i]);
             if(n==null)
             hm.put(nums[i],1);
-            else if(n>=1)
+            else if(n==1)
             l.add(nums[i]);
             
             
