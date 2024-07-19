@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Counting
@@ -38,6 +40,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
