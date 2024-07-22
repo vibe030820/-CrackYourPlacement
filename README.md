@@ -77,6 +77,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
@@ -103,4 +104,16 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0055-jump-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
