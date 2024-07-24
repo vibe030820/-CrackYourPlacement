@@ -8,7 +8,7 @@ class Solution {
             max=Math.max(w,max);
             if(height[lp]<height[rp])
             lp++;
-            else if(height[lp]>=height[rp])
+            else
             rp--;
         }
        return max;
