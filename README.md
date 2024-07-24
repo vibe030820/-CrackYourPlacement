@@ -15,6 +15,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0088-merge-sorted-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -123,4 +126,8 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+## Binary Search
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
