@@ -129,5 +129,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
