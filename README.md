@@ -20,6 +20,7 @@
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [0070-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -94,6 +96,7 @@
 | [0198-house-robber](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -160,4 +163,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
