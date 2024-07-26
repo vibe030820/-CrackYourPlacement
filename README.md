@@ -73,17 +73,20 @@
 | [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
