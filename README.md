@@ -16,6 +16,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
