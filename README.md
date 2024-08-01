@@ -23,6 +23,7 @@
 | [0907-koko-eating-bananas](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
