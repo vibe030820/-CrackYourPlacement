@@ -73,6 +73,7 @@
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0496-next-greater-element-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Simulation
 |  |
 | ------- |
