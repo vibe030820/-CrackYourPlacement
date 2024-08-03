@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -181,5 +182,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
