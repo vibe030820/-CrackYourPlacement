@@ -74,6 +74,7 @@
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0495-teemo-attacking) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
