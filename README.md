@@ -15,6 +15,7 @@
 | [0213-house-robber-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0495-teemo-attacking) |
@@ -102,6 +103,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
