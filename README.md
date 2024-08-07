@@ -84,6 +84,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -186,4 +188,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
