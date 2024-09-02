@@ -26,6 +26,7 @@
 | [0909-stone-game](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0495-teemo-attacking) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Monotonic Stack
 |  |
@@ -169,6 +171,7 @@
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -188,6 +191,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
