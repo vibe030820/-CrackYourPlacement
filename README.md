@@ -20,6 +20,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
