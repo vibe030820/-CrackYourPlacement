@@ -157,17 +157,20 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
