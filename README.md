@@ -12,6 +12,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
@@ -66,6 +67,7 @@
 | [0075-sort-colors](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
