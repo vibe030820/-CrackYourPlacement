@@ -223,4 +223,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
