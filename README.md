@@ -52,6 +52,7 @@
 | [0075-sort-colors](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -69,6 +70,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
@@ -227,4 +229,16 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0197-rising-temperature) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
