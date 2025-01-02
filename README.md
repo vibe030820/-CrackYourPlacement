@@ -31,6 +31,7 @@
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0874-backspace-string-compare](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
