@@ -30,6 +30,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
@@ -214,6 +215,7 @@
 | [0238-product-of-array-except-self](https://github.com/vibe030820/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/vibe030820/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vibe030820/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
